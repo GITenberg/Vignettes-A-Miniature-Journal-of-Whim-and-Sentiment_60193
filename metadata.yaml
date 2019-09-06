@@ -1,5 +1,8 @@
 _repo: Vignettes-A-Miniature-Journal-of-Whim-and-Sentiment_60193
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60193-h/images/cover.jpg
 creator:
   author:
     agent_name: Crackanthorpe, Hubert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6149
     wikipedia: https://en.wikipedia.org/wiki/Hubert_Crackanthorpe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60193#Vignettes-A-Miniature-Journal-of-Whim-and-Sentiment
 gutenberg_issued: '2019-08-29'
 gutenberg_type: Text
 identifiers:
